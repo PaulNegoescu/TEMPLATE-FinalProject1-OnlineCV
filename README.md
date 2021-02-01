@@ -1,4 +1,4 @@
-# Final Project 1 - Onlin CV
+# Final Project 1 - Online CV
 
 Create an online CV page to get your new IT career started. Make sure that it has the following features:
 
